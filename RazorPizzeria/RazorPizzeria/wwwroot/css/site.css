@@ -1,0 +1,87 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.mainText{
+    padding: 75px 20px;
+}
+
+.mainImage{
+    border-radius: 20px;
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.3));
+    margin: 40px;
+}
+
+.mainSubTitle{
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.smallText{
+    text-align: right;
+    color: grey;
+}
+
+.makeYourOwnDiv{
+   background: white;
+    margin: 0;
+}
+
+.makeYourOwnText{
+    margin: 100px 0 20px 0;
+    color: black;
+}
+
+.btnPizza{
+    max-width: auto !important;
+    min-width: 200px !important;
+}
+.rowPizzaGrid{
+    margin-bottom: 3em !important;
+}
+.gridFrame {
+    box-shadow: 1px 14px 31px -14px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 14px 31px -14px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 14px 31px -14px rgba(0,0,0,0.75);
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 25px;
+    margin-bottom: 5em;
+}
+.pizzaCard {
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 25px;
+}
+.paddingDiv{
+    padding: 1em;
+}
+.btn-primary{
+    border-radius: 50px !important;
+}
+.pizzaCard:hover {
+    background-color: #f2f2f2;
+    transition: 0.3s ease-in ;
+}
+.pizzasGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+        ". . ."
+        ". . ."
+        ". . .";
+}
