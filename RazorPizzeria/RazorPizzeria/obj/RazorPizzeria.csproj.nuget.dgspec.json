@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHubProjects\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj": {}
+    "D:\\GitHubProjects\\CSharp\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj": {}
   },
   "projects": {
-    "D:\\GitHubProjects\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj": {
+    "D:\\GitHubProjects\\CSharp\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHubProjects\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
+        "projectUniqueName": "D:\\GitHubProjects\\CSharp\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
         "projectName": "RazorPizzeria",
-        "projectPath": "D:\\GitHubProjects\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
+        "projectPath": "D:\\GitHubProjects\\CSharp\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
         "packagesPath": "C:\\Users\\Dodan\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHubProjects\\RazorPizzeria\\RazorPizzeria\\obj\\",
+        "outputPath": "D:\\GitHubProjects\\CSharp\\RazorPizzeria\\RazorPizzeria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dodan\\AppData\\Roaming\\NuGet\\NuGet.Config",

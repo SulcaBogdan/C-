@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hOu7bOw3a4XnfRtIy0bSNjmLtzzAPwzJstNoYkIqj6nrYya5oepONSrKfTLoZKoTnaQZyr4vbkZJHnRUv148ow==",
+  "dgSpecHash": "abWhzfI2XGO+5FWkrj5nkCWLFkclbcuKNEcRiIamodz9VmaMO3QVUnJhX4fDkgNKC7XvkVm3sG32YVYhjk5z4g==",
   "success": true,
-  "projectFilePath": "D:\\GitHubProjects\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
+  "projectFilePath": "D:\\GitHubProjects\\CSharp\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dodan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Dodan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
